@@ -86,3 +86,33 @@ Is this ok? (yes) yes
 4) create the server.js file and run using the node server.js command
 
 5) Bootstrap the intel edison board and ssh to it using Putty
+6) npm install zetta-led-edison-driver --save  ( To install led driver) 
+  npm WARN package.json zetta-home-security@0.1.0 No repository field. <br>
+npm WARN package.json zetta-home-security@0.1.0 No README data<br>
+npm http GET https://registry.npmjs.org/zetta-led-edison-driver<br>
+npm http 200 https://registry.npmjs.org/zetta-led-edison-driver<br>
+npm http GET https://registry.npmjs.org/zetta-led-edison-driver/-/zetta-led-edison-driver-0.6.0.tgz<br>
+npm http 200 https://registry.npmjs.org/zetta-led-edison-driver/-/zetta-led-edison-driver-0.6.0.tgz<br>
+npm http GET https://registry.npmjs.org/mraa-js<br>
+npm http GET https://registry.npmjs.org/zetta-device<br>
+npm http GET https://registry.npmjs.org/zetta-scout<br>
+npm http 200 https://registry.npmjs.org/mraa-js<br>
+npm http GET https://registry.npmjs.org/mraa-js/-/mraa-js-0.1.0.tgz<br>
+npm http 200 https://registry.npmjs.org/mraa-js/-/mraa-js-0.1.0.tgz<br>
+npm http 304 https://registry.npmjs.org/zetta-device<br>
+npm http 304 https://registry.npmjs.org/zetta-scout<br>
+npm http GET https://registry.npmjs.org/zetta-device/-/zetta-device-0.8.0.tgz<br>
+npm http 200 https://registry.npmjs.org/zetta-device/-/zetta-device-0.8.0.tgz<br>
+npm http GET https://registry.npmjs.org/zetta-streams<br>
+npm http GET https://registry.npmjs.org/node-uuid<br>
+npm http GET https://registry.npmjs.org/zetta-scientist<br>
+npm http 304 https://registry.npmjs.org/node-uuid<br>
+npm http 304 https://registry.npmjs.org/zetta-scientist<br>
+npm http 304 https://registry.npmjs.org/zetta-streams<br>
+npm http GET https://registry.npmjs.org/zetta-streams/-/zetta-streams-0.1.0.tgz<br>
+npm http 200 https://registry.npmjs.org/zetta-streams/-/zetta-streams-0.1.0.tgz
+zetta-led-edison-driver@0.6.0 node_modules/zetta-led-edison-driver
+├── zetta-scout@0.5.0 (zetta-scientist@0.3.0)
+├── mraa-js@0.1.0
+└── zetta-device@0.8.0 (zetta-streams@0.1.0, node-uuid@1.4.3)
+root@localedison6:~/zetta-home-security#
