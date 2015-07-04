@@ -16,7 +16,7 @@ Hub and spoke architecture.
 Look at the IntelEdison Boostrap file. COmplete the setup.
 then run the following commands on your system <br>
 
-'$>npm init'
+`$>npm init`
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
@@ -57,11 +57,11 @@ About to write to C:\Users\sadhguru\Documents\IOT-Craft-Meetup\IOTCraft3\zetta-h
 }
 
 
-Is this ok? (yes) yes'
+Is this ok? (yes) yes
 
 
 ---------------------------------------------------------------
-3) C:\Users\sadhguru\Documents\IOT-Craft-Meetup\IOTCraft3\zetta-home-security> npm install zetta --save <br>
+` $> npm install zetta --save` <br>
 <br>zetta@0.28.0 node_modules\zetta<br>
 ├── argo-formatter-siren@0.0.0<br>
 ├── zetta-rels@0.3.0<br>
@@ -91,9 +91,8 @@ Is this ok? (yes) yes'
 
 ----------------------------------------------------------------------------------------------------------------------
 4) create the server.js file and run using the node server.js command
-
-5) Bootstrap the intel edison board and ssh to it using Putty
-6) npm install zetta-led-edison-driver --save  ( To install led driver) 
+5) copy paste the code from server.js
+6) `npm install zetta-led-edison-driver --save`  ( To install led driver) 
   npm WARN package.json zetta-home-security@0.1.0 No repository field. <br>
 npm WARN package.json zetta-home-security@0.1.0 No README data<br>
 npm http GET https://registry.npmjs.org/zetta-led-edison-driver<br>
