@@ -14,8 +14,9 @@ Hub and spoke architecture.
 2)Steps to Run on IntelEdison
 
 Look at the IntelEdison Boostrap file. COmplete the setup.
-then run the following commands on your system  
-'$>npm init
+then run the following commands on your system <br>
+
+'$>npm init'
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
