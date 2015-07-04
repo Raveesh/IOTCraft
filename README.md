@@ -83,3 +83,6 @@ Is this ok? (yes) yes
 └── revolt@0.7.0 (rx@2.5.3, ws@0.5.0)<br>
 
 ----------------------------------------------------------------------------------------------------------------------
+4) create the server.js file and run using the node server.js command
+
+5) Bootstrap the intel edison board and ssh to it using Putty
