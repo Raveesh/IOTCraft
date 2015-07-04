@@ -1,13 +1,16 @@
-screen command to login
-configure_edision
-choose the wifi and it will give the IP address.
+Connect board using usb / mini cable <br>
+screen command to login <br>
+configure_edision (For details on Bootstrapping intel edison : http://www.codefoster.com/edison-setup/) <br>
+choose the wifi and it will give the IP address. <br>
+IP used by us.<br>
 
-192.168.1.55
+192.168.1.55<br>
+root / inteledison6 <br>
 
-root / inteledison6
 
 
-For details on Bootstrapping intel edison : 
 
-http://www.codefoster.com/edison-setup/
+
+
+
 
