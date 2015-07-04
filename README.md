@@ -8,10 +8,14 @@ Hub and spoke architecture.
 
 
 -----------------------------------------------------------------------------------------------
-# 1) Install Node JS : <br> 
+# 1) Install Node JS : <br> If testing on local machine
 'https://nodejs.org/download/'
 
-2) C:\Users\sadhguru\Documents\IOT-Craft-Meetup\IOTCraft3\zetta-home-security>npm init
+2)Steps to Run on IntelEdison
+
+Look at the IntelEdison Boostrap file. COmplete the setup.
+then run the following commands on your system  
+'$>npm init
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
@@ -52,7 +56,7 @@ About to write to C:\Users\sadhguru\Documents\IOT-Craft-Meetup\IOTCraft3\zetta-h
 }
 
 
-Is this ok? (yes) yes
+Is this ok? (yes) yes'
 
 
 ---------------------------------------------------------------
