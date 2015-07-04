@@ -90,8 +90,8 @@ Is this ok? (yes) yes
 └── revolt@0.7.0 (rx@2.5.3, ws@0.5.0)<br>
 
 ----------------------------------------------------------------------------------------------------------------------
-4) create the server.js file and run using the node server.js command
-5) copy paste the code from server.js
+4) create the server.js file and run using the node server.js command<br>
+5) copy paste the code from server.js <br>
 6) `npm install zetta-led-edison-driver --save`  ( To install led driver) 
   npm WARN package.json zetta-home-security@0.1.0 No repository field. <br>
 npm WARN package.json zetta-home-security@0.1.0 No README data<br>
